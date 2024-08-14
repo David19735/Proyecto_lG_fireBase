@@ -5,6 +5,7 @@ import format from 'date-fns/format';
 import { es } from 'date-fns/locale';
 import styled from 'styled-components';
 import theme from '../theme';
+//Comentario de prueba 
 
 const formatFecha=(fecha=new Date())=>{
 
